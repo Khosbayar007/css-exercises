@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+#number_2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.number_1,
+.number_5 {
+    background-color: rgb(233, 134, 151);
+    font-family: sans-serif;
+}
+.number_3 {
+    background-color: rgb(228, 140, 154);
+    font-family: sans-serif;
+    font-size: 24px;
+}
+#number_4 {
+    background-color: rgb(86, 180, 86);
+    font-size: 24px;
+    font-weight: 700;
+}
